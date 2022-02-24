@@ -1,0 +1,38 @@
+
+ul{
+    list-style-type : none;
+    font: size 30px;
+    
+}
+a{
+   
+    text-decoration: none;
+    color :white;
+}
+li{
+    display: inline;
+}
+#w{
+    padding-left: 1050px;
+    
+}
+#move{
+    padding-left:10px;
+}
+#m{
+    padding-left: 10px;
+}
+#p{
+    padding-left: 10px;
+}
+
+nav{
+    background-color: rgb(9, 156, 144);
+    width: 500%;
+    height: 500%;
+    
+}
+a:hover{
+    color:red;
+    background-color: yellow;
+}
